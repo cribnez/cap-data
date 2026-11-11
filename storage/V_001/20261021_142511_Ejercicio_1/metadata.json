@@ -1,0 +1,20 @@
+{
+    "voluntario_id": "001",
+    "ejercicio": "Ejercicio 1",
+    "sesion_id": "20261021_142511",
+    "brazo": "Derecho",
+    "reps_objetivo": 5,
+    "reps_completadas": 5,
+    "tara_offsets": {
+        "hombro": 0.0,
+        "codo": 0.0,
+        "muneca": 0.0
+    },
+    "estado": "COMPLETA",
+    "cajones_npz": [
+        "filtrados_tarados",
+        "filtrados_sin_tara",
+        "crudos_tarados",
+        "crudos_sin_tara"
+    ]
+}

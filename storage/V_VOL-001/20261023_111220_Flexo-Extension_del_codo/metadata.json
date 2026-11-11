@@ -1,0 +1,35 @@
+{
+    "voluntario_id": "VOL-001",
+    "ejercicio": "Flexo-Extension del codo",
+    "sesion_id": "20261023_111220",
+    "brazo": "Derecho",
+    "reps_objetivo": 5,
+    "reps_completadas": 5,
+    "tara_offsets": {
+        "hombro": 12.86,
+        "codo": 15.66,
+        "muneca": -6.16
+    },
+    "auditoria_adquisicion": {
+        "muestras_segmentador_recibidas": 20179,
+        "muestras_segmentador_procesadas": 2600,
+        "muestras_fuera_captura": 17579,
+        "timestamp_arduino_inicio_ms": 360028,
+        "timestamp_arduino_fin_ms": 313466,
+        "lineas_uart_recibidas": 13513,
+        "lineas_malformadas": 0,
+        "lineas_descartadas_cola": 0,
+        "muestras_entregadas_analisis": 13513,
+        "tramas_validas": 13513,
+        "tramas_invalidas_i2c": 0,
+        "tramas_perdidas_secuencia": 0,
+        "errores_i2c_firmware": 0
+    },
+    "estado": "COMPLETA",
+    "cajones_npz": [
+        "filtrados_tarados",
+        "filtrados_sin_tara",
+        "crudos_tarados",
+        "crudos_sin_tara"
+    ]
+}
